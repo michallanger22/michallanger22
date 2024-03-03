@@ -1,0 +1,4 @@
+@echo off
+:fak you
+start op2.bat
+Goto fak you
